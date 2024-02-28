@@ -1,0 +1,3 @@
+SCREEN_WIDTH = 500  # pixels
+SCREEN_HEIGHT = 500
+FPS = 60
